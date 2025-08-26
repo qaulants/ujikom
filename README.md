@@ -28,3 +28,7 @@ Tampilan Kasir
 
 <img width="1920" height="1080" alt="Screenshot (16)" src="https://github.com/user-attachments/assets/430f88b7-3c9c-4557-b093-2fb2d23a74a4" />
 
+<img width="1920" height="1080" alt="Screenshot (19)" src="https://github.com/user-attachments/assets/667dac0e-8ef6-44f1-a12c-f4591aa9aa55" />
+
+<img width="1920" height="1080" alt="Screenshot (18)" src="https://github.com/user-attachments/assets/d87b417f-1454-428c-baf4-8374f6f6e070" />
+
