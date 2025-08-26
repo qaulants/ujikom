@@ -32,3 +32,8 @@ Tampilan Kasir
 
 <img width="1920" height="1080" alt="Screenshot (18)" src="https://github.com/user-attachments/assets/d87b417f-1454-428c-baf4-8374f6f6e070" />
 
+<img width="1920" height="1080" alt="Screenshot (20)" src="https://github.com/user-attachments/assets/2643e1d8-9f7a-469b-a873-e0042ea8f760" />
+
+Tampilan untuk Pimpinan
+
+<img width="1920" height="1080" alt="Screenshot (23)" src="https://github.com/user-attachments/assets/d2e0fa24-ab83-425e-a3c0-16adb066fd7b" />
