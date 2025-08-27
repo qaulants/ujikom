@@ -1,4 +1,4 @@
-##Tampilan Login
+## Tampilan Login
 
 <img width="1920" height="849" alt="login" src="https://github.com/user-attachments/assets/4059197a-fa35-4ef1-8d5f-51717d071285" />
 
@@ -22,7 +22,7 @@
 
 
 
-##Tampilan Kasir
+## Tampilan Kasir
 
 <img width="1920" height="1080" alt="Screenshot (15)" src="https://github.com/user-attachments/assets/90d08b03-7fec-45fa-a97e-85a733249736" />
 
@@ -34,6 +34,6 @@
 
 <img width="1920" height="1080" alt="Screenshot (20)" src="https://github.com/user-attachments/assets/2643e1d8-9f7a-469b-a873-e0042ea8f760" />
 
-Tampilan untuk Pimpinan
+## Tampilan untuk Pimpinan
 
 <img width="1920" height="1080" alt="Screenshot (23)" src="https://github.com/user-attachments/assets/d2e0fa24-ab83-425e-a3c0-16adb066fd7b" />
