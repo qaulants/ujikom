@@ -1,8 +1,8 @@
-Tampilan Login
+##Tampilan Login
 
 <img width="1920" height="849" alt="login" src="https://github.com/user-attachments/assets/4059197a-fa35-4ef1-8d5f-51717d071285" />
 
-Tampilan user admin
+##Tampilan user admin
 
 <img width="1920" height="954" alt="index" src="https://github.com/user-attachments/assets/2aee8418-16a4-4273-a23d-1ad915d5fb2c" />
 
@@ -22,7 +22,7 @@ Tampilan user admin
 
 
 
-Tampilan Kasir
+##Tampilan Kasir
 
 <img width="1920" height="1080" alt="Screenshot (15)" src="https://github.com/user-attachments/assets/90d08b03-7fec-45fa-a97e-85a733249736" />
 
